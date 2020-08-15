@@ -37,5 +37,5 @@
 [website]: https://portfolio-allen.herokuapp.com/
 [twitter]: https://twitter.com/VictorAllen22
 [youtube]: https://www.youtube.com/VOCASTGAMING
-[instagram]: https://www.instagram.com/meetallen22/
+[instagram]: https://www.instagram.com/victorallen22/
 [linkedin]: https://linkedin.com/in/victor-allen-33a5b3124/
