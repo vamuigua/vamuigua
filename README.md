@@ -34,7 +34,7 @@
 
 </details>
 
-[website]: https://portfolio-allen.herokuapp.com/
+[website]: https://www.vicallendev.tk/
 [twitter]: https://twitter.com/VictorAllen22
 [youtube]: https://www.youtube.com/VOCASTGAMING
 [instagram]: https://www.instagram.com/victorallen22/
