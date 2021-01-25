@@ -27,10 +27,13 @@
 
 ---
 
+### 📈 Interested in Stats?
 <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="vamuigua's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vamuigua&show_icons=true&hide_border=true" />
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vamuigua)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
