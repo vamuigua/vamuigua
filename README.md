@@ -27,6 +27,22 @@
 
 ---
 
+## 📌 Pinned Repositories
+
+<a href="https://github.com/vamuigua/remss">
+  <img align="center" alt="remss" src="https://github-readme-stats.vercel.app/api/pin/?username=vamuigua&repo=remss" />
+</a>
+
+<a href="https://github.com/vamuigua/vue-weather">
+  <img align="center" alt="remss" src="https://github-readme-stats.vercel.app/api/pin/?username=vamuigua&repo=vue-weather" />
+</a>
+
+<a href="https://github.com/vamuigua/Ninja-Danger">
+  <img align="center" alt="remss" src="https://github-readme-stats.vercel.app/api/pin/?username=vamuigua&repo=Ninja-Danger" />
+</a>
+
+---
+
 ### 📈 Interested in Stats?
 <details>
   <summary>:zap: Github & Top Languages Stats</summary>
