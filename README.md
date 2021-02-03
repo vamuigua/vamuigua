@@ -43,13 +43,12 @@
 
 ### 📈 Interested in Stats?
 <details>
-  <summary>:zap: Github & Top Languages Stats</summary>
+  <summary>:zap: Top Languages & Github Stats</summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" alt="vamuigua's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vamuigua&show_icons=true&hide=contribs,issues&count_private=true&cache_seconds=86400&theme=vue-dark" />
+    <img align="left" alt="vamuigua's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamuigua&theme=vue-dark" />
   </a>
-  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="vamuigua's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamuigua&theme=vue-dark" />
+    <img align="center" alt="vamuigua's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vamuigua&show_icons=true&hide=contribs,issues&count_private=true&cache_seconds=86400&theme=vue-dark" />
   </a>
 </details>
 
