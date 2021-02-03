@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-informational?style=flat&logo=chase&logoColor=white&color=1CA2F1)](website)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-informational?style=flat&logo=chase&logoColor=white&color=1CA2F1)][website]
 
 [<img align="left" alt="vamuigua | Portfolio" width="22px" src="https://img.shields.io/badge/Portfolio-Profile-informational?style=flat&logo=chase&logoColor=white&color=1CA2F1" />][website]
 [<img align="left" alt="vamuigua | YouTube" width="22px" src="https://img.shields.io/badge/Youtube-Profile-informational?style=flat&logo=youtube&logoColor=white&color=FF0000" />][youtube]
