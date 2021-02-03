@@ -30,15 +30,15 @@
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/vamuigua/remss">
-  <img align="center" alt="remss" src="https://github-readme-stats.vercel.app/api/pin/?username=vamuigua&repo=remss" />
+  <img align="center" alt="remss" src="https://github-readme-stats.vercel.app/api/pin/?username=vamuigua&repo=remss&title_color=fff&icon_color=f9f9f9&text_color=54B882&bg_color=273849" />
 </a>
 
 <a href="https://github.com/vamuigua/vue-weather">
-  <img align="center" alt="remss" src="https://github-readme-stats.vercel.app/api/pin/?username=vamuigua&repo=vue-weather" />
+  <img align="center" alt="remss" src="https://github-readme-stats.vercel.app/api/pin/?username=vamuigua&repo=vue-weather&title_color=fff&icon_color=f9f9f9&text_color=54B882&bg_color=273849" />
 </a>
 
 <a href="https://github.com/vamuigua/Ninja-Danger">
-  <img align="center" alt="remss" src="https://github-readme-stats.vercel.app/api/pin/?username=vamuigua&repo=Ninja-Danger" />
+  <img align="center" alt="remss" src="https://github-readme-stats.vercel.app/api/pin/?username=vamuigua&repo=Ninja-Danger&title_color=fff&icon_color=f9f9f9&text_color=54B882&bg_color=273849" />
 </a>
 
 ---
@@ -47,7 +47,7 @@
 <details>
   <summary>:zap: Github & Top Languages Stats</summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" alt="vamuigua's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vamuigua&show_icons=true&hide_border=true&count_private=true&theme=vue-dark" />
+    <img align="left" alt="vamuigua's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vamuigua&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
