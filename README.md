@@ -10,11 +10,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="vamuigua.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="vamuigua | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="vamuigua | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vamuigua | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vamuigua | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="vamuigua | Portfolio" width="22px" src="https://img.shields.io/badge/Portfolio-Profile-informational?style=flat&logo=chase&logoColor=white&color=1CA2F1" />][website]
+[<img align="left" alt="vamuigua | YouTube" width="22px" src="https://img.shields.io/badge/Youtube-Profile-informational?style=flat&logo=youtube&logoColor=white&color=FF0000" />][youtube]
+[<img align="left" alt="vamuigua | Twitter" width="22px" src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1" />][twitter]
+[<img align="left" alt="vamuigua | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" />][linkedin]
+[<img align="left" alt="vamuigua | Instagram" width="22px" src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=C1558B" />][instagram]
 
 <br />
 
