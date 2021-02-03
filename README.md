@@ -47,7 +47,7 @@
 <details>
   <summary>:zap: Github & Top Languages Stats</summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" alt="vamuigua's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vamuigua&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
+    <img align="left" alt="vamuigua's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vamuigua&show_icons=true&hide=contribs,issues&count_private=true&cache_seconds=86400&theme=vue-dark" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
