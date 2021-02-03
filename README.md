@@ -1,12 +1,12 @@
 ### Hi there, I'm Victor Allen - aka [Chief Engineer][website] 👋
 
-## I'm a Software Developer, Hobbyist Game Dev, Tech enthusiast & Lover of Music!
+## I'm a Software Developer, Hobbyist Game Dev, Tech enthusiast, Lover of Music & Gamer!
 
-- 🔭 I’m currently working on an Indie Game!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on an Indie Game - Never Nigh!
+- 🌱 I’m currently learning Vue 3 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Growing my tech stack in Javascript
-- ⚡ Fun fact: Rocket League any day! 🚀
+- 🥅 2021 Goals: Growing my tech stack in Javascript & C#
+- ⚡ Fun fact: Rocket League is my favourite game, any day! 🚀
 
 ### Connect with me:
 
