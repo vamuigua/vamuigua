@@ -1,12 +1,12 @@
 <img alt="snake_game" src="github-user-contribution.svg"/>
 
-### Hi there, I'm Victor Allen - aka [Chief Engineer][website] 👋
+## Hi there, I'm Victor Allen 👋
 
-## I'm a Software Developer, Hobbyist Game Dev, Tech enthusiast & Gamer!
+### Software Developer, Hobbyist Game Dev, Tech enthusiast & Gamer!
 
-- 🔭 I’m currently working on an Indie Game - Never Nigh!
-- 🌱 I’m currently learning Vue 3
-- 👯 I’m looking to collaborate with other developers
+- 🔭 I’m currently working on an Indie Game - [Never Nigh][game-twitter]
+- 🌱 Growing my knowledge in Vue JS & Laravel  
+- 👯 Always open to collaborate with other developers
 - 🥅 2021 Goals: Growing my tech stack in Javascript & C#
 - ⚡ Fun fact: Rocket League is my favourite game, any day! 🚀
 
@@ -71,3 +71,4 @@
 [youtube]: https://www.youtube.com/VOCASTGAMING
 [instagram]: https://www.instagram.com/victorallen22/
 [linkedin]: https://linkedin.com/in/victor-allen-33a5b3124/
+[game-twitter]: https://twitter.com/VictorAllen22/status/1344303647006584832
