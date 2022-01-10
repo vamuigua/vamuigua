@@ -8,7 +8,7 @@
 - 🌱 Growing my knowledge in Vue JS, Laravel & Docker  
 - 👯 Always open to collaborate with other developers
 - 🥅 2022 Goals: Livewire & Alpine JS
-- ⚡ Fun fact: This will make your day! [CLICK ME][secret] 🚀
+- ⚡ Fun fact: This will make your day! [CLICK ME](secret){:target="\_blank"} 🚀 
 
 ### Connect with me:
 
