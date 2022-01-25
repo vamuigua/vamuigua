@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on an Indie Game - [Never Nigh][game-twitter]
 - 🌱 Growing my knowledge in Vue JS, Laravel & Docker  
 - 👯 Always open to collaborate with other developers
-- 🥅 2022 Goals: Livewire & Alpine JS
+- 🥅 2022 Goals: Livewire & Alpine JS (maybe Flutter 😅)
 - ⚡ Fun fact: This will make your day! <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Click Me!</a> 🚀 
 
 ### Connect with me:
