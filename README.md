@@ -27,34 +27,6 @@
 
 ---
 
-## 📌 Pinned Repositories
-
-<a href="https://github.com/vamuigua/remss">
-  <img align="center" alt="remss" src="https://github-readme-stats.vercel.app/api/pin/?username=vamuigua&repo=remss&title_color=54B882&icon_color=f9f9f9&text_color=fff&bg_color=273849" />
-</a>
-
-<a href="https://github.com/vamuigua/vue-weather">
-  <img align="center" alt="remss" src="https://github-readme-stats.vercel.app/api/pin/?username=vamuigua&repo=vue-weather&title_color=54B882&icon_color=f9f9f9&text_color=fff&bg_color=273849" />
-</a>
-
-<a href="https://github.com/vamuigua/Ninja-Danger">
-  <img align="center" alt="remss" src="https://github-readme-stats.vercel.app/api/pin/?username=vamuigua&repo=Ninja-Danger&title_color=54B882&icon_color=f9f9f9&text_color=fff&bg_color=273849" />
-</a>
-
-<a href="https://github.com/vamuigua/reaction-time">
-  <img align="center" alt="remss" src="https://github-readme-stats.vercel.app/api/pin/?username=vamuigua&repo=reaction-time&title_color=54B882&icon_color=f9f9f9&text_color=fff&bg_color=273849" />
-</a>
-
-<a href="https://github.com/vamuigua/stick-it">
-  <img align="center" alt="remss" src="https://github-readme-stats.vercel.app/api/pin/?username=vamuigua&repo=stick-it&title_color=54B882&icon_color=f9f9f9&text_color=fff&bg_color=273849" />
-</a>
-
-<a href="https://github.com/vamuigua/RGBs-Color-Game">
-  <img align="center" alt="remss" src="https://github-readme-stats.vercel.app/api/pin/?username=vamuigua&repo=RGBs-Color-Game&title_color=54B882&icon_color=f9f9f9&text_color=fff&bg_color=273849" />
-</a>
-
----
-
 ### 📈 Interested in Stats?
 <details>
   <summary>:zap: Top Languages & Github Stats</summary>
