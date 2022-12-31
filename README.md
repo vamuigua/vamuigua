@@ -4,11 +4,11 @@
 
 ### Software Developer, Hobbyist Game Dev, Tech enthusiast & Gamer!
 
-- 🔭 I’m currently working on an Indie Game - [Never Nigh][game-twitter]
-- 🌱 Growing my knowledge in Vue JS, Laravel & Docker  
-- 👯 Always open to collaborate with other developers
-- 🥅 2022 Goals: Livewire & Alpine JS (maybe Flutter 😅)
-- ⚡ I dare you to <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Click Me!</a> 😈
+- 🔭 I’m currently working on EdTech solutions
+- 🌱 Growing my knowledge in Vue JS, Laravel & Cloud  
+- 👯 Open to collaborate with Tech communities
+- 🥅 2023 Goals: Flutter 🐤, Tailwind 🌬️ & Cloud ☁️
+- ⚡ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Click Me!</a> 😈
 
 ### Connect with me:
 
