@@ -5,9 +5,9 @@
 ### Software Developer, Hobbyist Game Dev, Tech enthusiast & Gamer!
 
 - 🔭 I’m currently working on EdTech solutions
-- 🌱 Growing my knowledge in Vue JS, Laravel & Cloud  
+- 🌱 Growing my knowledge in various technologies
 - 👯 Open to collaborate with Tech communities
-- 🥅 2023 Goals: Flutter 🐤, Tailwind 🌬️ & Cloud ☁️
+- 🥅 Ongoing Goals: Learning Flutter, Python, Machine learning & AI  
 - ⚡ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Click Me!</a> 😈
 
 ### Connect with me:
