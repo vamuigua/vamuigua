@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Victor Allen 👋
 
-### Software Developer, Hobbyist Game Dev, Tech enthusiast & Gamer!
+### Software Engineer, Hobbyist Game Dev, Tech enthusiast & Gamer!
 
 - 🔭 I’m currently working on EdTech solutions
 - 🌱 Growing my knowledge in various technologies
