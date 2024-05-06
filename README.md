@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on EdTech solutions at [Zydii](https://zydii.com/)
 
-- 🌱 I’m currently learning **Flutter, Python, Machine learning & AI**
+- 🌱 Upskilling my knowledge in **Flutter, Python, Machine learning & AI**
 
 - 👨‍💻 All of my projects are available in my [portfolio](https://victorallenmuigua.xyz/)
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/17Fvi7Bllt9zgUhNH6c0D-Oaaz521jwOr/view?usp=sharing)
 
-- ⚡ Fun fact **In just one day, your heart can pump enough blood to fill a small swimming pool.**
+- 💭 Fun fact **In just one day, your heart can pump enough blood to fill a small swimming pool.** Cool right? 😃 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
