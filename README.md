@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/victorallen22" target="blank"><img src="https://img.shields.io/twitter/follow/victorallen22?logo=twitter&style=for-the-badge" alt="victorallen22" /></a> </p>
 
-- 🔭 I’m currently working on EdTech solutions at [Zydii](https://zydii.com/)
+- 🔭 I’m currently working as a Full-Stack Software Engineer
 
-- 🌱 Upskilling my knowledge in **Flutter, Python, Machine learning & AI**
+- 🌱 Upskilling my knowledge in Lavavel, Vue Js & Flutter
 
 - 👨‍💻 All of my projects are available in my [portfolio](https://victorallenmuigua.xyz/)
-
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/17Fvi7Bllt9zgUhNH6c0D-Oaaz521jwOr/view?usp=sharing)
 
 - 💭 Fun fact **In just one day, your heart can pump enough blood to fill a small swimming pool.** Cool right? 😃 
 
@@ -36,11 +34,3 @@
     <img align="center" alt="vamuigua's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vamuigua&show_icons=true&hide=contribs,issues&count_private=true&cache_seconds=86400&theme=vue-dark" />
   </a>
 </details>
-
-[website]: https://www.vicallendev.tk/
-[twitter]: https://twitter.com/VictorAllen22
-[youtube]: https://www.youtube.com/VOCASTGAMING
-[instagram]: https://www.instagram.com/victorallen22/
-[linkedin]: https://linkedin.com/in/victor-allen-33a5b3124/
-[game-twitter]: https://twitter.com/VictorAllen22/status/1344303647006584832
-[secret]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
